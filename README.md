@@ -322,11 +322,4 @@ AND email LIKE '%@gmail.com';
 
 ---
 
-This document covers all **core SQL concepts** along with **syntax, examples, and best practices**. You can use it as a complete learning or revision guide or add it as a `README.md` on GitHub.
 
-Let me know if you want:
-
-* Practice Questions
-* Real SQL Interview Tasks
-* Cheat Sheet Version
-* Export as Markdown or PDF
